@@ -1,10 +1,10 @@
-41ed882e7cf0aa405e0cd63f3ad1d9f4 *DESCRIPTION
+8f857bbdf7508f61784b357a762e1619 *DESCRIPTION
 b479285c68b96f9daa8e19f37c71900e *LICENSE
 aeac7fc21e87b22d12b96966f6cda094 *NAMESPACE
 0df5126a95f16d5eb491a2dd37f05a21 *R/RcppExports.R
 5bbf90c4836635cecefee5fba9616a6f *R/lsoda.R
 bd72e593e2eae708dcd2dc3c7fc53627 *R/utils.R
-bd73f4da6d9208cf00d732a8d3639a67 *inst/include/lsoda.h
+c7022340cc093e782cefdcbb4b721b26 *inst/include/lsoda.h
 fb43261cc44e43620a890376e90877bb *man/lsoda.Rd
 c39fe95b2a3ade34c7046637beb1b853 *man/ode.Rd
 4cb24fcafeea5d9353fb2c47ea1c2077 *man/plugin.Rd
